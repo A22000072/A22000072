@@ -17,25 +17,6 @@
 
 ---
 
-# 🚀 Work Experience:
-### **PT. Sawala Innovation Indonesia (SAWALA Technology)** - Web Developer Intern *(2020 – 2021)*  
-- Built interactive user experiences for web applications.  
-- Designed and implemented optimized database systems.  
-- Debugged and fixed existing software issues effectively.  
-
----
-
-# 📚 Education:
-### Universitas Sebelas April Sumedang *(2020 – 2024)*  
-**Bachelor's Degree in Information Technology Engineering**  
-GPA: 3.66  
-
-### Bangkit Academy by Google, GoTo, Traveloka *(2023)*  
-**Machine Learning Learning Path**  
-- Focus on AI model development and data engineering.
-
----
-
 # 📜 Certifications:
 - **Google Cloud Computing Foundations Certificate** *(2024)*  
 - **TensorFlow Developer Certificate** *(2024)*  
@@ -45,7 +26,7 @@ GPA: 3.66
 ---
 
 # 📧 Contact:
-- 📍 **Sumedang, Jawa Barat**  
+- 📍 **Indonesiat**  
 - ✉️ **m.akbarfauzi15@gmail.com**  
 - 🌐 [LinkedIn Profile](http://www.linkedin.com/in/muhammad-akbar-fauzi)
 
