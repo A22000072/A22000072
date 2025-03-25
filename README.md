@@ -1,4 +1,4 @@
-# Hello World!, I'm Muhammad Akbar Fauzi, an Indonesian IT Graduate 👋🏼
+# Hello World!, I'm Muhammad Akbar Fauzi, an IT Graduate 👋🏼
 
 🛜 Graduated in **Information Technology Engineering** at Universitas Sebelas April Sumedang<br>👨🏼‍💻 Experienced in Web Development, Machine Learning, and Cybersecurity since 2020<br>🎬 Passionate about exploring innovative solutions, especially in **Digital Forensics and AI**
 
@@ -26,7 +26,6 @@
 ---
 
 # 📧 Contact:
-- 📍 **Indonesiat**  
 - ✉️ **m.akbarfauzi15@gmail.com**  
 - 🌐 [LinkedIn Profile](http://www.linkedin.com/in/muhammad-akbar-fauzi)
 
